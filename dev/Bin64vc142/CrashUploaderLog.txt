@@ -1,0 +1,1 @@
+[2020-08-15T17:20:18] [40324:39784:20200815,172018.581:ERROR main.cpp:27] Initializing windows crash uploader

@@ -1,0 +1,14 @@
+{
+    "project_name": "FourEighteenGames",
+    "product_name": "FourEighteenGames",
+    "executable_name": "FourEighteenGamesLauncher",
+    "modules" : [],
+    "project_id": "{507AA2F1-ABC5-41A5-9104-83480C191FFC}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0",
+        "orientation" : "landscape"
+    }
+}

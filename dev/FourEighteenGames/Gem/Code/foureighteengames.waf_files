@@ -1,0 +1,15 @@
+{
+    "none":
+    {
+        "Include":
+        [
+            "Include/FourEighteenGames/FourEighteenGamesBus.h"
+        ],
+        "Source":
+        [
+            "Source/FourEighteenGamesModule.cpp",
+            "Source/FourEighteenGamesSystemComponent.cpp",
+            "Source/FourEighteenGamesSystemComponent.h"
+        ]
+    }
+}

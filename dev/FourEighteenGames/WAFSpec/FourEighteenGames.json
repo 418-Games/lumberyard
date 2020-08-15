@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for FourEighteenGames",
+    "visual_studio_name": "FourEighteenGames",
+    "comment" : "",
+    "game_projects" : "FourEighteenGames",
+
+    "modules" : [
+    ]
+}
